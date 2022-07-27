@@ -1,0 +1,11 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!README.md
+# etc...
+
+# ...even if they are in subdirectories
+!chess_clock/
+!chess_clock_proj/
