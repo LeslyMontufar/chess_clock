@@ -63,6 +63,12 @@ void Error_Handler(void);
 #define BUTTON_J1_GPIO_Port GPIOA
 #define BUTTON_J2_Pin GPIO_PIN_1
 #define BUTTON_J2_GPIO_Port GPIOA
+#define BUTTON_MINUS_Pin GPIO_PIN_4
+#define BUTTON_MINUS_GPIO_Port GPIOA
+#define BUTTON_PLUS_Pin GPIO_PIN_5
+#define BUTTON_PLUS_GPIO_Port GPIOA
+#define BUTTON_PLAY_Pin GPIO_PIN_6
+#define BUTTON_PLAY_GPIO_Port GPIOA
 #define LED_J1_Pin GPIO_PIN_10
 #define LED_J1_GPIO_Port GPIOB
 #define LED_J2_Pin GPIO_PIN_11
